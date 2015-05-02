@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zoster-TestApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_user">Hello %1$s!</string>
+    <string name="action_settings">Settings</string>
+</resources>
