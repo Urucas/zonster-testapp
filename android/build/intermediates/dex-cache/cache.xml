@@ -2,32 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/app/build/intermediates/pre-dexed/debug/classes-2001f4380e261c41a87593bb91f26bb887ebec36.jar" />
-    </item>
-    <item
-        jar="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9eb6b5aeb2af0054943ff3bcf896007fb81317d1.jar" />
-    </item>
-    <item
-        jar="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jar="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/app/build/intermediates/pre-dexed/debug/classes-ded1716389f7459996f8770475acda0275a11461.jar" />
+        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/pre-dexed/debug/classes-ca7a4ba08d20cb35645d24b684f95c4b298f8f1f.jar" />
+    </item>
+    <item
+        jar="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/pre-dexed/debug/classes-e6929fa157b6fdb34bafa9654bef6d6ce199efc5.jar" />
+    </item>
+    <item
+        jar="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/exploded-aar/zosterSDK/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b91619d090c5e7058ceba934a5e6a958d419a8b4">
+        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/pre-dexed/debug/classes-992eb692eb4a54ad1e43a049158d78b2f9c66d6d.jar" />
+    </item>
+    <item
+        jar="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d7c3948d30b9bce072a9f648ca84b67f95ec72aa.jar" />
     </item>
     <item
         jar="/Users/vruno/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-064cc3b7b19d9068bb1a20ded8f01a21bcab5ab6.jar" />
+        <dex dex="/Users/vruno/Documents/Urucas/Android/Zoster-TestApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-064cc3b7b19d9068bb1a20ded8f01a21bcab5ab6.jar" />
     </item>
 
 </items>
